@@ -1,0 +1,10 @@
+vk-monitor/
+├── config.py              # Настройки приложения
+├── main.py                # Основной скрипт
+├── vk_parser.py           # Логика работы с VK API
+├── notifier.py            # Отправка уведомлений
+├── requirements.txt       # Зависимости
+├── .gitignore             # Игнорируемые файлы
+└── data/
+    ├── last_processed.json# Время последней проверки
+    └── posts_cache.json   # Кэш обработанных постов
