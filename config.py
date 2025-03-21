@@ -1,6 +1,3 @@
-# "access_token": fa132b59fa132b59fa132b59f2f93b5354ffa13fa132b599d896d868516ee65b047c800,
-# "target_group": -52983821
-
 import os
 from pathlib import Path
 
